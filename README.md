@@ -15,7 +15,7 @@
 
 ### File Structure
 
-There are 4 classes - `Simulation`, `Person`, `Virus`, & `Logger`
+There are 4 files each containing respective classes - `Simulation`, `Person`, `Virus`, & `Logger`
 
 * `Simulation`: Runs the entire simulation (contains the other classes)
 * `Person`: Represents the individual people in simulation
