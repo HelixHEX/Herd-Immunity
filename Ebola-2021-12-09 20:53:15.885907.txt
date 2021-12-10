@@ -1,0 +1,28 @@
+2021-12-09 20:53:15.886440 
+Population Size: 100000 - Percent Vaccinated: 10 - Virus Name:  - Mortality Rate:  - Reproductive Rate: 
+
+
+2021-12-09 20:53:17.525761
+	Normal People: 9916 - Vaccinated People: 90007 - Infected People: 74 - Dead People: 3
+
+2021-12-09 20:53:17.624594
+	Normal People: 9422 - Vaccinated People: 90063 - Infected People: 494 - Dead People: 21
+
+2021-12-09 20:53:17.742102
+	Normal People: 6710 - Vaccinated People: 90434 - Infected People: 2712 - Dead People: 144
+
+2021-12-09 20:53:18.017887
+	Normal People: 999 - Vaccinated People: 92432 - Infected People: 5711 - Dead People: 858
+
+2021-12-09 20:53:18.500285
+	Normal People: 12 - Vaccinated People: 96686 - Infected People: 987 - Dead People: 2315
+
+2021-12-09 20:53:18.655972
+	Normal People: 8 - Vaccinated People: 97444 - Infected People: 4 - Dead People: 2544
+
+2021-12-09 20:53:18.754031
+	Normal People: 8 - Vaccinated People: 97447 - Infected People: 0 - Dead People: 2545
+
+Percentage of the population that became infected at some point: 9.982000000000001% 
+Percentage of the population that died from the virus: 2.545% 
+Total number of people saved because of vaccination: 35864 
